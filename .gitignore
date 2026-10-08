@@ -1,0 +1,9 @@
+archive (3).zip
+fruit_dataset/
+*.ipynb
+trained_model.h5
+trained_model_new.keras
+fruit_classifier_mobilenet.keras
+__pycache__/
+.ipynb_checkpoints/
+archive (3).zip
