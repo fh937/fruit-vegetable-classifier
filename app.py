@@ -19,7 +19,7 @@ st.write("Upload an image and the AI model will predict the fruit or vegetable."
 # Model
 # =========================
 
-model_path = r"D:\desktop\jupyter notebook\fruit_classifier_mobilenet.keras"
+model_path = "fruit_classifier_mobilenet_finetuned.keras"
 
 model = tf.keras.models.load_model(model_path)
 
